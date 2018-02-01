@@ -1,4 +1,5 @@
 ## Welcome to my open-source Vietnamese Textbook
+https://andyfoster.github.io/VietnameseTextbook/book
 
 ### Table Of Contents
 
@@ -33,6 +34,10 @@ Choose either Vietnamese or telex
 tones - r, j, s, f, x
 For the hooks do a w after the letter
 For the hats and the cross through the d, do a double letter
+
+
+# End of Content --------------------
+
 
 You can use the [editor on GitHub](https://github.com/andyfoster/VietnameseTextbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
