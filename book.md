@@ -8,6 +8,9 @@ https://andyfoster.github.io/VietnameseTextbook/book
 - Grammar
 - How This Book Works
 - Appendix
+  - Colours
+  - Foods
+  - Vehicles
 - Using a Vietnamese Keyboard
 
 # Alphabet
