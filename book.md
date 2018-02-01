@@ -1,6 +1,7 @@
 ## Welcome to my open-source Vietnamese Textbook
 
-###Table Of Contents
+### Table Of Contents
+
 - Alphabet
 - Structure
 - Grammar
@@ -8,7 +9,7 @@
 - Appendix
 - Using a Vietnamese Keyboard
 
-#Alphabet
+# Alphabet
 Vietnamese has a 29-letter alphabet
 
 https://simple.wikipedia.org/wiki/Vietnamese_alphabet
@@ -26,7 +27,7 @@ There are 6 tones that you say each word. Words only have one tone each and alwa
 
 
 
-##Using a Vietnamese Keyboard
+## Using a Vietnamese Keyboard
 
 Choose either Vietnamese or telex
 tones - r, j, s, f, x
