@@ -12,83 +12,89 @@ https://andyfoster.github.io/VietnameseTextbook/book
   - Foods
   - Vehicles
 - Using a Vietnamese Keyboard
+- Resources
+ - Motorbike repairs
+ - Haggling at the market
+ - Calling the hospital
 
 # Alphabet
 Vietnamese has a 29-letter alphabet
 
-https://simple.wikipedia.org/wiki/Vietnamese_alphabet
+[Vietnamese alphabet on Wikipedia](https://simple.wikipedia.org/wiki/Vietnamese_alphabet)
 
-The Latin alphabet[change | change source]
-The main letters from the Latin alphabet:
 
-a,b,c,d,e,g,h,i,k,l,m,n,o,p,q,r,s,t,u,v,x,y,qu
+__Ă__　with a crescent on top is said like the U in UNDER
 
-The first set of changed letters[change | change source]
+__A__ is open like in **aunt** or **father** (kind of a longer version of the first one)
+
+__Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one - very different 
+
+|Vietnamese|English| sounds like |
+|:---:|:---:|:---:|
+| A a | a | father |
+| **Â â** | - | it |
+| **Ă ă** | - | under|
+| B b | same||
+|C c|||
+| D d | d | pronounced Z in Hanoi and Y in Saigon (watch out) |
+| **Đ đ** | - | hard D sound (this is the closest to English D |
+|E e|-|-|
+|**Ê ê**||
+|-|F||
+|G g| ||
+|H h|||
+|I i|||
+|-|J||
+|K k||
+|L l||
+|M m||
+|N n||same as english|
+|||nh - nya
+|||ng - haNG only comes at the end of the word in English |
+|O o | | mORE |
+|**Ô ô** | -| hellO, L M N **O**|
+|**Ơ ơ** | |crOss |
+|P p ||
+|Q q||
+|R r ||
+|S s|
+|T t| ** | kind of a soft d sound| 
+||| TH - an actual T sound | 
+|U u | | mOO |
+|**Ư ư**| Uhh ||
+|v|||
+|-| W|
+|x
+|y,
+|qu|
+|-|Z|
+
+The first set of changed letters
 ô, ơ, â, ă, ê, ư, đ
 
 
-There are 6 tones that you say each word. Words only have one tone each and always stay the same (i.e. the tone is attached to that word and doesn't change)
+### Getting to Z
+
+They love the 'z' sound in the North.
+Gi, d, r, 
+
+## Tones
+
+There are 6 tones that affect how you say each word. Words only have one tone each and always stay the same (i.e. the tone is attached to that word and doesn't change)
 
 
 
 ## Using a Vietnamese Keyboard
 
-Choose either Vietnamese or telex
+- Choose either Vietnamese or telex
 tones - r, j, s, f, x
-For the hooks do a w after the letter
-For the hats and the cross through the d, do a double letter
+- For the hooks do a w after the letter
+- For the hats and the cross through the d, do a double letter
 
 
-# End of Content --------------------
 
 
-You can use the [editor on GitHub](https://github.com/andyfoster/VietnameseTextbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyfoster/VietnameseTextbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

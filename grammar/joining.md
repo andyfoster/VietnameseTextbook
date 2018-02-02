@@ -3,7 +3,11 @@
  Doing things simultaneously
  
  
- vua..vua
+ vừa...vừa...
+ Chị ấy **vừa** lười biếng vừa **xấu** tính
+ She is both lazy and mean
+
+    
  I eat ice cream while I watch tv
  
  She is both pretty and smart
