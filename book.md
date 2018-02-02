@@ -35,7 +35,7 @@ __Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one -
 | **Â â** | - | it |
 | **Ă ă** | - | under|
 | B b | same||
-|C c|||
+|C c|| Pronounced as a g |
 | D d | d | pronounced Z in Hanoi and Y in Saigon (watch out) |
 | **Đ đ** | - | hard D sound (this is the closest to English D |
 |E e|-|-|
@@ -46,6 +46,7 @@ __Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one -
 |I i|||
 |-|J||
 |K k||
+|||Kh - |
 |L l||
 |M m||
 |N n||same as english|
@@ -60,11 +61,12 @@ __Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one -
 |S s|
 |T t| ** | kind of a soft d sound| 
 ||| TH - an actual T sound | 
+|||TR - CH|
 |U u | | mOO |
 |**Ư ư**| Uhh ||
 |v|||
 |-| W|
-|x
+|x | | said like a s |
 |y,
 |qu|
 |-|Z|
