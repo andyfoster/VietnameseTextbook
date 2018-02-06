@@ -1,7 +1,7 @@
 # Grammar Index
 
-- [Listing things](#listing)
-- Adverbs
+- [Listing and joining words](#listing-and-joining)
+- [Adverbs](#adverbs)
 
 - Preposition "do"
 	- The cause or reason of action - "because of me, he was punished" (pg 226 TVCO)
