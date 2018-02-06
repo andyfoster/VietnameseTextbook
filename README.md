@@ -18,3 +18,9 @@ material for learning that each learner can choose their own method. Vietnamese 
 so I want to create it here.
 
 Feel free to suggest any additions or alterations that you think will improve this.
+
+
+## Guide to Contributing
+
+- [Learn about Markdown](https://guides.github.com/features/mastering-markdown/)
+- Learn how git works

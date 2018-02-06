@@ -1,15 +1,15 @@
-#Grammar Index
+# Grammar Index
 
+- [Listing things](#listing)
+- Adverbs
 
 - Preposition "do"
 	- The cause or reason of action - "because of me, he was punished" (pg 226 TVCO)
-- Vua vua
-	- Two actions or things happeing at the same time
-	- we are listening and writing
-	- the car is old and expensive (p226)
+
 - ngoai ra, ngoai ... ra
 	- besides, apart from, in addition to
 	- apart from studying Russian she is studying German
+
 - particles of result
 	- "ra"
 		- go after verbs to express the results of an action
@@ -24,6 +24,7 @@
 		- Can go with almost all verbs
 		- Toi moi mua duoc mot chiec xe may
 		- I have just bought a motorbike	
+
 - Verb + thu/xem
 	- Thu can go before or after the verb
 	- Used when the speaker wants to try something in order to find out whether it is good or not
@@ -49,8 +50,19 @@
 	- **tuy** anh ay bi met **nhung** anh ay van di hoc
 	- Although he is tired he still goes to school
 
+## Listing and joining
+
+- Vua vua
+	- Two actions or things happeing at the same time
+	- we are listening and writing
+	- the car is old and expensive (p226)
+
+## Adverbs
+
 - Abverbs of frequency
 	- luon, luon luon (always), thuong xuyen (very often), thuong, (p 260)
+
+
 
 - The, vay
 	- When the speaker doesn't want to repeat something that has been said reviously

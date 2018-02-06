@@ -5,7 +5,7 @@ https://andyfoster.github.io/VietnameseTextbook/book
 
 - Alphabet
 - Structure
-- Grammar
+- [Grammar](/grammar)
 - How This Book Works
 - Appendix
   - Colours
