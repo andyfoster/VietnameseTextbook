@@ -98,16 +98,16 @@ There are 6 tones that affect how you say each word. Words only have one tone ea
 - Each tone has a letter attached to it. This is why it's sometimes hard to mix English and Vietnamese using the same keyboard. If you type the letter twice, it should let you actually type a W, etc.
 - If you type the wrong tone key, you don't have to erase the word, just type the one you wanted and it will fix for you.
 - Tones (using a an an example vowel)
- - huyền 'hanging' à **af**
- - sắc   'sharp' á **as**
- - hỏi   'asking' ả **ar**
- - ngã   'tumbling' ã **ax**
- - nặng   'heavy' ạ **aj**
+    + huyền 'hanging' à **af**
+    + sắc   'sharp' á **as**
+    + hỏi   'asking' ả **ar**
+    + ngã   'tumbling' ã **ax**
+    + nặng   'heavy' ạ **aj**
 - Special Letters
- - ô **oo**
- - ơ **ow**
- - â **aa**
- - ă **aw**
- - ê **ew**
- - ư **uw**
- - đ **dd**
+    + ô **oo**
+    + ơ **ow**
+    + â **aa**
+    + ă **aw**
+    + ê **ew**
+    + ư **uw**
+    + đ **dd**
