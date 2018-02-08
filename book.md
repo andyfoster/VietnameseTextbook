@@ -3,16 +3,18 @@ https://andyfoster.github.io/VietnameseTextbook/book
 
 ### Table Of Contents
 
-- Alphabet
-- Structure
+- [Alphabet](#alphabet)
+- [Structure](#structure)
 - [Grammar](grammar/)
 - How This Book Works
 - Appendix
   - Colours
   - Foods
   - Vehicles
-- Using a Vietnamese Keyboard
+- [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
 - Resources
+- Situtations
+ - [Ordering water](situations/ordering-water)
  - Motorbike repairs
  - Haggling at the market
  - Calling the hospital
@@ -85,18 +87,21 @@ Gi, d, r,
 There are 6 tones that affect how you say each word. Words only have one tone each and always stay the same (i.e. the tone is attached to that word and doesn't change)
 
 
-
 ## Using a Vietnamese Keyboard
 
 - Choose either Vietnamese or telex
 tones - r, j, s, f, x
-- For the hooks do a w after the letter
-- For the hats and the cross through the d, do a double letter
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Tones (using a an an example vowel)
+ - huyền 'hanging' à **af**
+ - sắc   'sharp' á **as**
+ - hỏi   'asking' ả **ar**
+ - ngã   'tumbling' ã **ax**
+ - nặng   'heavy' ạ **aj**
+- Special Letters
+ - ô **oo**
+ - ơ **ow**
+ - â **aa**
+ - ă **aw**
+ - ê **ew**
+ - ư **uw**
+ - đ **dd**
