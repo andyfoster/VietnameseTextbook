@@ -47,6 +47,7 @@ __Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one -
 |**Ê ê**||
 |-|F||
 |G g| ||
+|||GI - in the north pronounced /z/|
 |H h|||
 |I i|||
 |-|J||
@@ -60,20 +61,19 @@ __Â__ with a hat rhymes with the vowel in hit or miss (watch out for this one -
 |O o | | mORE |
 |**Ô ô** | -| hellO, L M N **O**|
 |**Ơ ơ** | |crOss |
-|P p ||
-|Q q||
-|R r ||
-|S s|
+|P p | same |
+|Q q| same | always comes as QU |
+|R r | same | In the south, similar to English 'R'. In the north, pronounced /z/|
+|S s| same | same |
 |T t| ** | kind of a soft d sound| 
 ||| TH - an actual T sound | 
 |||TR - CH|
 |U u | | mOO |
 |**Ư ư**| Uhh ||
-|v|||
+|V v|||
 |-| W|
 |x | | said like a s |
-|y,
-|qu|
+|y||
 |-|Z|
 
 The first set of changed letters
@@ -89,11 +89,14 @@ Gi, d, r,
 
 There are 6 tones that affect how you say each word. Words only have one tone each and always stay the same (i.e. the tone is attached to that word and doesn't change)
 
+![Vietnamese Tones](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VietnameseToneHanoi2.png/420px-VietnameseToneHanoi2.png)
+
 
 ## Using a Vietnamese Keyboard
 
-- Choose either Vietnamese or telex
-tones - r, j, s, f, x
+- Choose either Vietnamese or Telex keyboard
+- Each tone has a letter attached to it. This is why it's sometimes hard to mix English and Vietnamese using the same keyboard. If you type the letter twice, it should let you actually type a W, etc.
+- If you type the wrong tone key, you don't have to erase the word, just type the one you wanted and it will fix for you.
 - Tones (using a an an example vowel)
  - huyền 'hanging' à **af**
  - sắc   'sharp' á **as**
