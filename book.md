@@ -6,18 +6,21 @@ https://andyfoster.github.io/VietnameseTextbook/book
 - [Alphabet](#alphabet)
 - [Structure](#structure)
 - [Grammar](grammar/)
+- Situtations
+    + [Ordering water](situations/ordering-water)
+    + Motorbike repairs
+    + Haggling at the market
+    + Calling the hospital
+- [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
 - How This Book Works
 - Appendix
   - Colours
   - Foods
   - Vehicles
-- [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
 - Resources
-- Situtations
- - [Ordering water](situations/ordering-water)
- - Motorbike repairs
- - Haggling at the market
- - Calling the hospital
+- Example Conversations
+- Conversational devices
+- Language Learning
 
 # Alphabet
 Vietnamese has a 29-letter alphabet
