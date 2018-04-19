@@ -6,7 +6,7 @@ https://andyfoster.github.io/VietnameseTextbook/book
 - [Alphabet](#alphabet)
 - [Structure](#structure)
 - [Grammar](grammar/)
-- [Hanoi Streets and their Namesakes](hanoi-streets/)
+- [Hanoi Streets and their Namesakes](misc/hanoi-streets/)
 - Situtations
     + [Ordering water](situations/ordering-water)
     + Motorbike repairs
