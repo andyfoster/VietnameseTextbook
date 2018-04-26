@@ -102,9 +102,8 @@ Lê Hồng Phong
 - Yên Ninh
 - Yên Phụ
 - Yên Thế
-- 
-- 
-- ## Hoan Kiem [VN wiki](https://vi.wikipedia.org/wiki/Hoàn_Kiếm)
+
+## Hoan Kiem [VN wiki](https://vi.wikipedia.org/wiki/Hoàn_Kiếm)
 - 19-12
 - Ấu Triệu
 - Bà Triệu
