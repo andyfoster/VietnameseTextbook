@@ -70,8 +70,7 @@ Gi, d, r,
 
 There are 6 tones that affect how you say each word. Words only have one tone each and always stay the same (i.e. the tone is attached to that word and doesn't change)
 
-![Vietnamese Tones](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VietnameseToneHanoi2.png/420px-VietnameseToneHanoi2.png)
-
+-![Vietnamese Tones](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VietnameseToneHanoi2.png/420px-VietnameseToneHanoi2.png)
 
 ## Using a Vietnamese Keyboard
 

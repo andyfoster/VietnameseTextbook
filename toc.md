@@ -9,6 +9,11 @@
     + Motorbike repairs
     + Haggling at the market
     + Calling the hospital
+- Signs
+    + [Miscellaneous Signs](signs/street-signs/misc)
+    + Food
+    + Road Signs
+    + Political Signs
 - [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
 - How This Book Works
 - Lessons
