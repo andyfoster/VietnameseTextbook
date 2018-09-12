@@ -20,7 +20,7 @@ Cậu có muốn đi phượt ở châu u vào năm sau với bọn mình không
 _"Would you like to backpack with us to Europe next year?"_
 
 ### cho leo cây - to stand someone up
-lit. to climb a tree
+(lit. to climb a tree)
 
 Sao em đến trễ vậy? Anh tưởng em cho anh leo cây rồi.    
 _"Why are you so late? I thought you stood me up."_
@@ -67,5 +67,14 @@ _Don't humiliate me_
 Anh ta rất hay đá xoáy tôi.
 _"He throws me shade quite often."_
 
+
+### 	giải quyết nỗi buồn - pee
+(lit. to solve sadness)
+
+Dừng xe! Tôi muốn đi giải quyết nỗi buồn.		
+_"Please pull over! I want to go pee."_
+
+Đợi mình một chút để mình đi giải quyết nỗi buồn đã.
+_"Please wait for me, I need to go pee."_
 
 (Thanks to https://www.vietnamesepod101.com/ Really good resource. You should check them out.)
