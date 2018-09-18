@@ -9,7 +9,7 @@
     + Motorbike repairs
     + Haggling at the market
     + Calling the hospital
-- [Slang](misc/slang.md)
+- [Slang](misc/slang)
 - Signs
     + [Miscellaneous Signs](signs/street-signs/misc)
     + Food
