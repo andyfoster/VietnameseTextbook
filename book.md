@@ -120,10 +120,10 @@ There are 6 tones that affect how you say each word. Words only have one tone ea
     + ngã   'tumbling' ã **ax**
     + nặng   'heavy' ạ **aj**
 - Special Letters (and how to get them)
-    + ô **oo**
-    + ơ **ow**
-    + â **aa**
-    + ă **aw**
-    + ê **ew**
-    + ư **uw**
-    + đ **dd**
+    + ô (**o + o**)
+    + ơ (**o + w**)
+    + â (**a + a**)
+    + ă (**a + w**)
+    + ê (**e + w**)
+    + ư (**u + w**)
+    + đ (**d + d**)
