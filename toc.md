@@ -1,5 +1,6 @@
 ### Table Of Contents
 
+- How This Book Works
 - [Alphabet](#alphabet)
 - [Structure](#structure)
 - [Grammar](grammar/)
@@ -10,13 +11,16 @@
     + Haggling at the market
     + Calling the hospital
 - [Slang](misc/slang)
+- Conversations
+    + [First conversations](conversations/basic)
+    + Intermediate
+        + [Teacher's Day](conversations/teachersDay)
 - Signs
     + [Miscellaneous Signs](signs/street-signs/misc)
     + Food
     + Road Signs
     + Political Signs
 - [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
-- How This Book Works
 - Lessons
     + [26 April 2018](lessons/2018-april-26)
 - Appendix
