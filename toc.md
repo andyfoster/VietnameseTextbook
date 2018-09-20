@@ -6,6 +6,7 @@
 - [Grammar](grammar/)
 - [Hanoi Streets and their Namesakes](misc/hanoi-streets)
 - Situtations
+    + [How to Read a Menu](situations/reading-menu)
     + [Ordering water](situations/ordering-water)
     + Motorbike repairs
     + Haggling at the market
