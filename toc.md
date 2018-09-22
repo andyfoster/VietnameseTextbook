@@ -24,6 +24,8 @@
 - [Using a Vietnamese Keyboard](#using-a-vietnamese-keyboard)
 - Lessons
     + [26 April 2018](lessons/2018-april-26)
+- Stories
+    - [The Ass Carrying the Image](stories/the-ass-carrying-the-image)    
 - Appendix
   - Colours
   - Foods
