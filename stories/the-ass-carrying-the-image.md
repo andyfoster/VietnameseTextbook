@@ -4,7 +4,7 @@
 
 Vietnamese | English
 -----|----
-Con lừa chở trên mình bức ảnh thiêng liêng | The ass carrying the image
+|Con lừa chở trên mình bức ảnh thiêng liêng | The ass carrying the image |
 | Một bức ảnh thiêng liêng đang được chở tới ngôi đền, nó được đặt trên lưng chú lừa được đeo những vòng hoa và bộ trang phục lộng lẫy. Theo sau đó là đám rước của thầy tu và các tiểu đồng trên phố | A sacred Image was being carried to the temple. It was mounted on an Ass adorned with garlands and gorgeous trappings, and a grand procession of priests and pages followed it through the streets.  |
 | Khi thấy con lừa tới, mọi người ai cũng cúi hoặc quỳ xuống chào một cách cung kính. Điều đó làm cho con lừa nghĩ rằng mọi người đang tôn vinh mình. | As the Ass walked along, the people bowed their heads reverently or fell on their knees, and the Ass thought the honor was being paid to himself. |
 | Với những cái ý nghĩ ngớ ngẩn như vậy, nó cảm thấy quá tự hào về bản thân mình. Nó bất chợt dừng lại, hát một bài hát bằng những tiếng kêu be be thật lớn. | With his head full of this foolish idea, he became so puffed up with pride and vanity that he halted and started to bray loudly. |
