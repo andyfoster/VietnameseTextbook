@@ -7,12 +7,12 @@ Pho go, pho bo, bun cha
 
 ### Types of Noodle/Rice
 
-- Pho - flat rice noodle
-- Bun - spaghetti-style rice noodle
-- Mien - glass noodles
-- My - instant noodles from a packet
-- Com - normal cooked rice
-- Xoi - sticky rice
+- Phở - flat rice noodle
+- Bún - spaghetti-style rice noodle
+- Miến - glass noodles
+- Mỳ - instant noodles from a packet
+- Cơm - normal cooked rice
+- Xôi - sticky rice
 
 ### Common Dishes
 - pho bo
