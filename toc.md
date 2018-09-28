@@ -4,9 +4,9 @@
 - [Alphabet](#alphabet)
 - [Structure](#structure)
 - [Grammar](grammar/)
-  + [First Words](grammar/beginnings.md)
-  + [Final Words](grammar/endings.md)
-  + [Similar Words](grammar/similar-words.md)
+  + [First Words](grammar/beginnings)
+  + [Final Words](grammar/endings)
+  + [Similar Words](grammar/similar-words)
 - [Hanoi Streets and their Namesakes](misc/hanoi-streets)
 - Situtations
     + [How to Read a Menu](situations/reading-menu)
