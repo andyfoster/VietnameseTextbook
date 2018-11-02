@@ -40,8 +40,25 @@ Pho go, pho bo, bun cha
 ### Parts of the Animal
 
 Pho is usually served with a specific cut of meat that you can specify
-- ?
-- ?
+- tái - half done beef
+- chín - welldone beef
+- tái chín - half done with welldone beef
+- nạm gầu - brisket with flank beef
+- tái nạm - half done with flank beef
+- tái gầu - half done with brisket beef
+- tái bắp - beef fillet noodle
+- bắp nạm gầu - brisket with flank and fillet beef
+- bát dặc biệt - special bowl
+- bắp trần - half done fillet beef
+
+- thư - head
+- tim - heart
+- lòng - intestines
+- bầu dục/thận - kidneys
+- thịt bắp bò - beef shin
+- dạ dày - belly
+- tiết - blood
+- xương - bone
 
 ### Styles of Cooking
 
