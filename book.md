@@ -1,4 +1,4 @@
-## Welcome to my open-source Vietnamese Textbook
+## 2019 Vietnamese Textbook (open-source)
 https://andyfoster.github.io/VietnameseTextbook/book
 
 {% include_relative toc.md %}
