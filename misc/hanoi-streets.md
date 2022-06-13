@@ -28,6 +28,8 @@
 - Hoàng Diệu
 - Hoàng Hoa Thám [VN wiki](https://vi.wikipedia.org/wiki/Hoàng_Hoa_Thám)
     + Hoàng Hoa Thám (1858 – 10 tháng 2 năm 1913), còn gọi là Đề Dương, Đề Thám hay Hùm thiêng Yên Thế, là người lãnh đạo cuộc khởi nghĩa Yên Thế chống Pháp (1885–1913).
+    + During the French colonial period, this street was called De Parreau - Digue Parreau (read as Đê Pa-rô Đi-gơ Pa-rô). Named after Ensèbe Irènée Parreau - the first French governor of Hanoi (1883). People here often call it Đường Thành.
+    + Currently, the street is named after Hoang Hoa Tham (1845-1913), also known as Đề Thám, who led the Yen The uprising , also known as "Sacred Lob of Yen The" (Bac Giang) during the resistance war against Vietnam. France.
 - Hoàng Văn Thụ
 - Hòe Nhai
 - Hồng Hà
